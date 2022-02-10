@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working in Technical Support Engineering 
+- 🌱 I’m currently based in Copenhagen, Denmark 🇩🇰
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I\ve visited 46 countries 🌎 🌍 🌏
 <!--
 **astropedrito/astropedrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
