@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in Technical Support Engineering 
+- 🔭 I’m currently working in Technical Support Engineering and crushing it!
 - 🌱 I’m currently based in Copenhagen, Denmark 🇩🇰
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I've visited 46 countries 🌎 🌍 🌏
