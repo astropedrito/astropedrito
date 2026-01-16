@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 Currently working as Technical Support Engineer II
+- 🔭 Currently working as Enterprise Support Engineer III
 - 🌱 Based in Copenhagen, Denmark 🇩🇰
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I've visited 72 countries 🌎 🌍 🌏
+- ⚡ Fun fact: I've visited 81 countries 🌎 🌍 🌏
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/piotrrajewicz/)
 <!--
 **astropedrito/astropedrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
